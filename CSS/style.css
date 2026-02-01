@@ -12,12 +12,12 @@ padding: 0;
 }
 /* Estilo Desktop */
 body{
-    background-color: #0E1014;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
 }
 
 header img{
-    display: block;
+    display: block; 
     margin: 75px 0 0 360px;
 }
 
